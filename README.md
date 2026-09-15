@@ -39,3 +39,6 @@
 ![Streak](https://streak-stats.demolab.com/?user=vinhhien88&theme=shadow_green&hide_border=false)
 
 ![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=vinhhien88&theme=shadow_green&hide_border=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
