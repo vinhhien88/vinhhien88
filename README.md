@@ -1,8 +1,11 @@
 ### 👋 Hi, I'm Nguyen Vinh Hien
 
 🎓 Final-year Software Engineering student @ FPT University (GPA 8.3/10)
+
 🚀 Java Backend Developer, chuyên Spring Boot, REST API, System Design
+
 🔍 Đang tìm cơ hội Java Backend Developer Intern/Fresher
+
 💬 Hỏi mình về: Spring Boot, Spring Security, JPA/Hibernate, System Architecture
 
 ### 🌐 Connect
