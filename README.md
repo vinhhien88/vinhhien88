@@ -29,5 +29,8 @@
 - Phát triển giao diện tracking shipper real-time và lớp API/auth cho app React Native đi kèm
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=vinhhien88&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinhhien88&layout=compact)
+![Stats](https://github-readme-stats.shion.dev/api?username=vinhhien88&show_icons=true&theme=shadow_green&hide_border=false&count_private=false)
+
+![Streak](https://streak-stats.demolab.com/?user=vinhhien88&theme=shadow_green&hide_border=false)
+
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=vinhhien88&theme=shadow_green&hide_border=false&layout=compact)
