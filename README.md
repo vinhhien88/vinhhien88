@@ -61,7 +61,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🔥 Featured Project
-**[Imperfect Produce Market System](https://github.com/orgs/nongsanxauma-vn/repositories)** — Fullstack E-commerce Platform
+**[Imperfect Produce Market System](https://github.com/vinhhien88/imperfect-produce-market-)** — Fullstack E-commerce Platform
 - Thiết kế ERD (Conceptual → Logical → Physical), chuyển thành **35 Java entities**, xây **142 API endpoints** (139 REST + 3 WebSocket) qua 24 controllers theo kiến trúc Controller-Service-Repository
 - Backend chính trong nhóm 5 người: JWT auth, phân quyền theo role, quản lý user/order/shipper, tích hợp Goong Map tính phí ship theo khoảng cách và GPS tracking real-time
 - Xây dựng AI chatbot end-to-end bằng Gemini AI + kiến trúc RAG để gợi ý sản phẩm theo ngữ cảnh
